@@ -1,6 +1,6 @@
 ## Tugas Algoritma
 *Nama:* Khairani Hana Ardini  
-*NIM:* [251011701197]  
+*NIM:* 251011701197
 *Matkul:* Algoritma dan Pemrograman  
 
 ## Deskripsi
