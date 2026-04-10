@@ -1,10 +1,11 @@
 ## Tugas Algoritma
 *Nama:* Khairani Hana Ardini  
 *NIM:* [251011701197]  
-*Matkul:* Algoritma dan Pemrograman   
+*Matkul:* Algoritma dan Struktur Data  
 
-## Deskripsi
-Program dibuat untuk menyelesaikan tugas [Konversi Hari dan Fizzbuzz].
+##TUGAS
+
+# 1.Program dibuat untuk menyelesaikan tugas [Konversi Hari dan Fizzbuzz].
 
 ## Jalankan Program
 Klik tombol di bawah ini untuk menjalankan kode langsung di browser:
