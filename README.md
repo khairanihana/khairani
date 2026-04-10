@@ -10,3 +10,11 @@ Program dibuat untuk menyelesaikan tugas [Konversi Hari dan Fizzbuzz].
 Klik tombol di bawah ini untuk menjalankan kode langsung di browser:
 
 [Open In Colab](https://colab.research.google.com/github/khairanihana/khairani/blob/main/khairani.ipynb)
+
+## Deskripsi
+Program dibuat untuk menyelesaikan tugas [Nilai Mahasiswa dan Operasi Matriks].
+
+## Jalankan Program
+Klik tombol di bawah ini untuk menjalankan kode langsung di browser:
+
+[Open In Colab]
