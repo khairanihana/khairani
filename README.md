@@ -20,3 +20,11 @@ Jalankan Program
 Klik tombol di bawah ini untuk menjalankan kode langsung di browser:
 
 [Open In Colab](https://colab.research.google.com/github/khairanihana/khairani/blob/main/pertemuan5.ipynb)
+
+## 3. Pangkat dan Deret.
+
+Jalankan Program
+
+Klik tombol di bawah ini untuk menjalankan kode langsung di browser:
+
+[Open In Colab](https://colab.research.google.com/github/khairanihana/khairani/blob/main/Tugas7.ipynb)
